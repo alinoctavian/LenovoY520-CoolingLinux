@@ -12,7 +12,7 @@ A C script for using the cooling fans on Linux
 gcc cooling.c -o cooling
 ```
 
-##
+## Running
 ```sh
 ./cooling
 ```
